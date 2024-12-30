@@ -10,7 +10,7 @@ echo """
 """
 sleep 3 
 #######################################
-channel="channels_backup_Ismail9875-motor-30w-42E.tar.gz"
+channel="channels_backup_Ismail9875-motor-30w-42E"
 url="https://github.com/ismail9875/Channels/raw/refs/heads/main/motor/"
 
 # Remove unnecessary files and folders
